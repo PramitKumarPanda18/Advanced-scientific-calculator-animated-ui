@@ -24,7 +24,7 @@ This project features a **modern animated UI**, **floating math particle effects
 
 ## 🖼️ Calculator Preview
 
-<img src="Calculator-preview.png" alt="Scientific Calculator Preview" width="700">
+<img src="Calculator-Preview.png" alt="Scientific Calculator Preview" width="700">
 
 ---
 
