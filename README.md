@@ -24,9 +24,7 @@ This project features a **modern animated UI**, **floating math particle effects
 
 ## 🖼️ Calculator Preview
 
-<img src="calculator-preview.png" alt="Scientific Calculator Preview" width="700">
-
-> 📌 After uploading the repository, add a screenshot of your calculator named **calculator-preview.png** in the root folder.
+<img src="Calculator-preview.png" alt="Scientific Calculator Preview" width="700">
 
 ---
 
